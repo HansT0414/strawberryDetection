@@ -154,8 +154,8 @@ if __name__ == '__main__':
         model_path,
         image_path,
         confidence_threshold=0.7,
-        max_display_width=4032, # 根據你的螢幕調整
-        max_display_height=3024  # 根據你的螢幕調整
+        max_display_width=4032, 
+        max_display_height=3024  
     )
     
     if success:
